@@ -38,11 +38,19 @@ After a successful purchase or other type of transaction, a snipe bot can either
 <li>Create “New File”. Rename it whatever you want or “bot.sol”
  <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen3.png?raw=true">
 </li>
-<li>Completely copy and paste the code from <a target="_blank" rel="noopener noreferrer" href="https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/bot.sol">here</a></li>
-<li>Head over to “Compiler” tab in remix and choose version 0.6.6 and press “Compile” button.</li>
+<li>Completely copy and paste the code from <a target="_blank" rel="noopener noreferrer" href="https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/bot.sol">here</a>
+ <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen4.png?raw=true">
+</li>
+<li>Head over to “Compiler” tab in remix and choose version 0.6.6 and press “Compile” button.
+<img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen5.png?raw=true">
+</li>
 <li>Go to the “DEPLOY & RUN TRANSACTIONS” tab, select the “Injected Web3” as environment and then “Deploy”. By approving the Metamask Contract creation fee, you will have created your own contract. 
+  <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen6.png?raw=true">
+  <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen7.png?raw=true">
+   <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen8.png?raw=true">
   Note: Make sure the name of your bot is selected in the CONTRACT section above deploy button. In this case mine would be "UniswapBot -bot.sol".
-Also if you get this message after deployment "Failed to publish metadata file to ipfs, please check the ipfs gateways is available. [{},{},{}] ". You can just ignore it and continue. This feature is to publish your bot to IPFS. Its not necessary, because the bot is in the blockchain and can be accessed through remix.</li>
+Also if you get this message after deployment "Failed to publish metadata file to ipfs, please check the ipfs gateways is available. [{},{},{}] ". You can just ignore it and continue. This feature is to publish your bot to IPFS. Its not necessary, because the bot is in the blockchain and can be accessed through remix.
+</li>
 <li>Fund your bot to be able to frontrun transactions.
 Make sure your deposit is more than 0.5 ETH( to prevent negating slippage ) to your exact contract/bot address.</li>
 <li>After your transaction is confirmed, click the "start" button to run the bot. Withdraw money at any time by clicking the "Withdraw" button</li>
