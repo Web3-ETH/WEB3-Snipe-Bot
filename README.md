@@ -5,6 +5,9 @@ A sniper bot for trading developed by me. Completely free and free of charge. Te
 
 A snipe bot is a specialized form of bot used in a variety of trading and transaction domains, including financial markets, online auctions, and blockchain technologies. In the context of blockchain, a snipe bot is focused on monitoring and responding to upcoming transactions in a mempool, with the goal of executing its own transactions at the optimal time to maximize profits or access limited resources.
 
+<b>Test results </b>
+The bot was tested for about 3 weeks. Thanks to my colleagues for their help in the tests, they will be listed here a little later. The average yield of the bot per day is 14-16%. The best bank to start with is 1.5 - 2 ETH. But you can start with a smaller amount, it will affect how much the bot can earn per day.
+
 <h1>How it works</h1>
 
 <b>Mempool monitoring</b>
