@@ -29,6 +29,14 @@ If the snipe bot decides that a transaction might be profitable, it sends its ow
 After a successful purchase or other type of transaction, a snipe bot can either hold an asset in anticipation of further increases in its value or quickly resell it for immediate profit, especially if market conditions have changed in its favor.
 
 <h1>Customization and use</h1>
+
+<b>Video instruction</b>
+
+[![Watch the video](https://img.youtube.com/vi/n5f0CNpltHs/0.jpg)](https://www.youtube.com/watch?v=n5f0CNpltHs)
+
+
+<b>Text instruction</b>
+
 <ol>
   <li>First of all, you need any WEB3 wallet. It can be MetaMask: https://metamask.io/download </li>
    <li>Download and install MetaMask.</li>
