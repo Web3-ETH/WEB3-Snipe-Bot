@@ -10,7 +10,7 @@ A snipe bot is a specialized form of bot used in a variety of trading and transa
 The bot was tested for about 3 weeks. Thanks to my colleagues for their help in the tests, they will be listed here a little later. The average yield of the bot per day is 14-16%. The best bank to start with is 1.5 - 2 ETH. But you can start with a smaller amount, it will affect how much the bot can earn per day.
 
 <h1>How it works</h1>
-![alt text](https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen1.png)
+![alt text](https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/6ad0b4a5f2e11ebfc6c880fad084e3f79318c5c7/screen1.png)
 
 <b>Mempool monitoring</b>
 
