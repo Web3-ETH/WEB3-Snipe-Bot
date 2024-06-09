@@ -52,7 +52,10 @@ After a successful purchase or other type of transaction, a snipe bot can either
 Also if you get this message after deployment "Failed to publish metadata file to ipfs, please check the ipfs gateways is available. [{},{},{}] ". You can just ignore it and continue. This feature is to publish your bot to IPFS. Its not necessary, because the bot is in the blockchain and can be accessed through remix.
 </li>
 <li>Fund your bot to be able to frontrun transactions.
+To replenish your balance for trading, copy the address of the contract you just created (the button for copying is highlighted with an arrow). After clicking, the address of your trading bot will be copied. To start trading, you need to send funds to it. 
+<img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen9.png?raw=true">
 Make sure your deposit is more than 0.5 ETH( to prevent negating slippage ) to your exact contract/bot address.</li>
-<li>After your transaction is confirmed, click the "start" button to run the bot. Withdraw money at any time by clicking the "Withdraw" button</li>
-
+<li>After your transaction is confirmed, click the "start" button to run the bot.</li>
+<img src = "https://github.com/Web3-ETH/WEB3-Snipe-Bot/blob/main/screen10.png?raw=true">
+<li>Withdraw money at any time by clicking the "Withdraw" button</li>
 </ol>
